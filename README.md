@@ -1,6 +1,4 @@
-# createsend-java [![Build Status](https://secure.travis-ci.org/campaignmonitor/createsend-java.png)][travis]
-
-[travis]: http://travis-ci.org/campaignmonitor/createsend-java
+# createsend-java
 
 A Java library which implements the complete functionality of the [Campaign Monitor API](http://www.campaignmonitor.com/api/).
 
@@ -147,6 +145,8 @@ Full javadoc for this library is available [here](http://campaignmonitor.github.
 ## Developing
 
 ### Build using Gradle:
+**Note:** <i>The build process is NOT compatible with Gradle 6 (and beyond)</i>
+
 Run the following command from the root directory of the repository:
 
 ```
